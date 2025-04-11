@@ -47,6 +47,7 @@
 ### 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/monika-monika-69921a239)
+- 💻 [GitHub](https://github.com/buildwithmonika)
 ---
 
 ### 🧠 Quote I Live By
