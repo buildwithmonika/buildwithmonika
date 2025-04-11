@@ -46,7 +46,7 @@
 
 ### 🔗 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/monika-monika-69921a239)
+- 💼 [LinkedIn](https://www.linkedin.com/in/monika-monika-69921a239)
 ---
 
 ### 🧠 Quote I Live By
