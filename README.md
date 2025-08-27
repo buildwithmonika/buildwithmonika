@@ -39,7 +39,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=monika-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monika-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithmonika&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
