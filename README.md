@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full-Stack Developer | AI Enthusiast | Building in Public<br>
-  🎯 Focused on FastAPI, React, Tailwind, TypeScript, and AI<br>
+  🎯 Focused on FastAPI, React, TypeScript, and AI<br>
   📍 India &nbsp;|&nbsp; 📬 osdeveloper.monika@gmail.com
 </p>
 
