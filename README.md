@@ -1,54 +1,47 @@
-<h1 align="center">Hi, I'm Monika 👋</h1>
+# Hi there 👋 I'm Monika
 
-<p align="center">
-  💻 Full-Stack Developer | AI Enthusiast | Building in Public<br>
-  🎯 Focused on FastAPI, React, TypeScript, and AI<br>
-  📍 India &nbsp;|&nbsp; 📬 osdeveloper.monika@gmail.com
-</p>
+🚀 Ruby on Rails Developer with 6 years of experience building scalable web applications, APIs, integrations, and backend systems.  
+
+💻 Skilled in Ruby on Rails, JavaScript, PostgreSQL, MySQL, APIs, and automation.  
+
+🌱 Currently learning Python, AI, React, and modern technologies to expand into AI-powered applications.  
+
+🎯 Passionate about problem-solving, clean code, backend architecture, and continuous learning.  
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m transitioning from 5 years of experience in Ruby on Rails to a modern full-stack stack
-- 🌱 Currently learning AI, FastAPI, React, and TypeScript
-- 🧠 Practical learner – I build while I learn
----
-
-### 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,mysql,docker,git,github,python,react" />
 </p>
 
 ---
 
-### 🌱 Learning Goals
+## 📈 GitHub Stats
 
-- ✅ Build 3+ full-stack projects
-- ✅ Integrate AI using OpenAI API
+```txt
+🔥 Consistent Learner
+💡 Problem Solver
+🚀 Backend Developer
+🌱 Exploring AI
+```
+
 ---
 
-### 📊 GitHub Stats
+## 🤝 Let's Connect
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monika-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithmonika&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/monika-monika-69921a239">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/buildwithmonika">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
 </p>
 
 ---
 
-### 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/monika-monika-69921a239)
-- 💻 [GitHub](https://github.com/buildwithmonika)
----
-
-### 🧠 Quote I Live By
-
-> "Consistency is what transforms average into excellence." — Tony Robbins
-
+⭐ Keep learning, keep building.
